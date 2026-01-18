@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I’m Harsh Gheewala
 
-<!--
-**HarshGheewala/HarshGheewala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an **AI developer** focused on **Agentic AI systems**—building intelligent agents that can reason, plan, and act using modern LLM frameworks. I work on applying AI to real-world problems through automation and intelligent workflows.
 
-Here are some ideas to get you started:
+I’m not a competitive DSA-focused engineer. My strengths lie in **AI system design, agent orchestration, and LLM integration**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🤖 What I Work On
+- Agentic AI systems (reasoning, planning, tool usage)
+- LLM-powered applications
+- AI-driven automation
+- Prompt engineering & orchestration
+
+---
+
+## 🛠️ Tech Stack
+- **Language:** Python
+- **AI / LLM:** OpenAI APIs, LangChain, LangGraph, RAG
+- **Concepts:** Agent design, memory, tool calling, planning
+- **Tools:** Git, GitHub, REST APIs, Vector Databases
+- **Currently Learning:** Scalable & production-ready AI systems
+
+---
+
+## 📌 What You’ll Find Here
+- Agentic AI experiments
+- AI automation projects
+- LLM-based applications
+- Research-inspired prototypes
+
+---
+
+## 🎯 Goals
+- Build reliable and aligned AI agents
+- Create AI systems that solve real problems
+- Grow into a strong applied AI engineer
+
+---
+
+## 📫 Let’s Connect
+- Open to collaboration on AI & agent-based systems
+- Always learning, always building
