@@ -1,16 +1,18 @@
 # 👋 Hi, I’m Harsh Gheewala
 
-I’m an **AI developer** focused on **Agentic AI systems**—building intelligent agents that can reason, plan, and act using modern LLM frameworks. I work on applying AI to real-world problems through automation and intelligent workflows.
+I’m an **AI developer** with a strong interest in **Agentic AI systems**—designing intelligent agents that can reason, plan, and interact with tools using modern LLM frameworks.
 
-I’m not a competitive DSA-focused engineer. My strengths lie in **AI system design, agent orchestration, and LLM integration**.
+Most of my hands-on **AI work is part of my professional role and covered under NDA**, so those projects aren’t publicly available yet. As I transition selected work into open-source–friendly form, I’ll be sharing AI projects here.
+
+For now, this profile focuses on **development projects** that reflect my engineering mindset and problem-solving approach.
 
 ---
 
-## 🤖 What I Work On
+## 🤖 Areas of Interest
 - Agentic AI systems (reasoning, planning, tool usage)
 - LLM-powered applications
 - AI-driven automation
-- Prompt engineering & orchestration
+- Prompt engineering & agent orchestration
 
 ---
 
@@ -23,21 +25,27 @@ I’m not a competitive DSA-focused engineer. My strengths lie in **AI system de
 
 ---
 
-## 📌 What You’ll Find Here
-- Agentic AI experiments
-- AI automation projects
-- LLM-based applications
-- Research-inspired prototypes
+## 📌 What You’ll Find Here (Currently)
+- Development-focused projects
+- Backend & automation experiments
+- Clean, well-structured codebases
+- Learning-by-building repositories
+
+---
+
+## 🔒 Note on AI Projects
+Some of my **Agentic AI and production AI systems are developed at work and protected by NDA**.  
+I plan to publish **independent AI projects and demos** here as soon as they are suitable for open-source release.
 
 ---
 
 ## 🎯 Goals
 - Build reliable and aligned AI agents
-- Create AI systems that solve real problems
-- Grow into a strong applied AI engineer
+- Ship real-world, production-grade systems
+- Grow as an applied AI engineer
 
 ---
 
 ## 📫 Let’s Connect
-- Open to collaboration on AI & agent-based systems
+- Open to collaboration on development & AI systems
 - Always learning, always building
